@@ -1,0 +1,1 @@
+// Placeholder for ProgressCharts.jsx file
